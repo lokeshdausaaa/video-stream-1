@@ -49,11 +49,11 @@ async def start_set(_, query: CallbackQuery):
                     InlineKeyboardButton("📚 Cᴏᴍᴍᴀɴᴅs", callback_data="command_list"),
                     InlineKeyboardButton("Bᴀsɪᴄ Iɴғᴏ ", callback_data="user_guide")    
                 ],[
-                    InlineKeyboardButton("• Cʜᴀᴛᴢᴏɴᴇ", url=f"https://t.me/LOVE_X_POISONS"),
-                    InlineKeyboardButton(" Cʜᴀᴛᴢᴏɴᴇ •", url=f"https://t.me/UNIQUE_SOCIETY")
+                    InlineKeyboardButton("• Cʜᴀᴛᴢᴏɴᴇ", url=f"https://t.me/DAUSA_123"),
+                    InlineKeyboardButton(" Cʜᴀᴛᴢᴏɴᴇ •", url=f"https://t.me/DAUSA_123")
                ],[
-                    InlineKeyboardButton("📨 Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BLAZE_SUPPORT"),
-                    InlineKeyboardButton(" Uᴘᴅᴀᴛᴇs 📨", url=f"https://t.me/THE_BLAZE_NETWORK")
+                    InlineKeyboardButton("📨 Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/DAUSA_123"),
+                    InlineKeyboardButton(" Uᴘᴅᴀᴛᴇs 📨", url=f"https://t.me/DAUSA_123")
                 ],[
                     InlineKeyboardButton("➕ Aᴅᴅ Mᴇ Tᴏ Uʀ Gʀᴏᴜᴘ ➕", url=f"https://t.me/{me_bot.username}?startgroup=true")
                 ],
